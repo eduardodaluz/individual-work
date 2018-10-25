@@ -5,3 +5,5 @@
 * Fetch/push
 * Branches
 * Student repositories
+* Permissions
+* Exercises
